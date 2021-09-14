@@ -1,0 +1,2 @@
+# RiceU
+Bootcamp stuff
